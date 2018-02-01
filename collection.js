@@ -234,7 +234,6 @@
     };
 
     /* …and here */
-    // Collection.foo = 'bar';
 
     // AMD support
     if (typeof define === 'function' && define.amd) {
