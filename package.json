@@ -1,6 +1,6 @@
 {
-  "name": "local-collection-db",
-  "version": "1.0.0-rc.1",
+  "name": "codixir-local",
+  "version": "1.0.0",
   "description": "A localStorage collections db",
   "main": "collection.js",
   "scripts": {
