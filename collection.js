@@ -7,7 +7,7 @@
 (function (global) {
     'use strict';
 
-    let Collection = function() {
+    let Collection = (function() {
       try {
         localStorage.setItem('name', 'John');
         localStorage.removeItem('name');
@@ -231,7 +231,8 @@
       }
 
       return Collection;
-    };
+      
+    }());
 
     /* …and here */
 
