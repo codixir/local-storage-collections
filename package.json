@@ -1,0 +1,24 @@
+{
+  "name": "local-collection-db",
+  "version": "1.0.0",
+  "description": "A localStorage collections db",
+  "main": "collection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codixir/local-storage-collections.git"
+  },
+  "keywords": [
+    "localstorage",
+    "collections",
+    "js"
+  ],
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codixir/local-storage-collections/issues"
+  },
+  "homepage": "https://github.com/codixir/local-storage-collections#readme"
+}
